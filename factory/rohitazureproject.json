@@ -1,0 +1,15 @@
+{
+	"name": "rohitazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8365c83f-2875-4c00-ab71-7eb4f4a51bd3",
+		"tenantId": "6b1da9f1-acf7-4a7d-9844-083da2d3723c"
+	}
+}
